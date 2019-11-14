@@ -1,0 +1,21 @@
+{
+  "name": "learn-npm",
+  "version": "1.0.0",
+  "description": "learn npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learn",
+    "npm"
+  ],
+  "author": "Sofyan",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cowsay": "^1.4.0",
+    "figlet": "^1.2.4",
+    "yeoman-character": "^1.1.0"
+  }
+}
